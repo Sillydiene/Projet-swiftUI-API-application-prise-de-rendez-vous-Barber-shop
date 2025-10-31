@@ -1,0 +1,2 @@
+# Projet-swiftUI-API-application-prise-de-rendez-vous-Barber-shop
+Projet scolaire pour le premier cours de développement d'application IOS. Ce projet est une application pour prendre des rendez-vous pour un Barber-shop. Il y'a aussi les fonctionnalités comme inscription, connexion, modifier rendez-vous, supprimer rendez-vous et déconnection. J'ai utilisé mockAPI pour gérer les données et utiliser dans l’app.
